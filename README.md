@@ -4,9 +4,10 @@ DataStore - Assignment Project For Graduate Trainee
  # Installation
  Clone this and ``` cd ``` to the desired directory
  ```
-   $ git clone https://github.com/BBloggsbott/freshworks-datastore
+   $ git clone https://github.com/rahulnarayananl/Assignment-Project/
    $ cd Assignment Project
  ```
+ Create a Class instance importing DataStore
  
 # Environment Setup
 
@@ -16,7 +17,7 @@ DataStore - Assignment Project For Graduate Trainee
 # Test Setup
  To run tests, run the following command
 ``` 
-python3 test_datastore.py
+python3 test.py
 ```
 
 # Question Statement:
