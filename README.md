@@ -1,8 +1,5 @@
 # Assignment-Project
 DataStore - Assignment Project For Graduate Trainee 
- 
- # Question Statement:
-
 <div align="center" width="250px" height="400px">
     <img src="Screenshots/engg1.jpg"</img>
  </div>
