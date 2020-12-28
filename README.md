@@ -9,6 +9,14 @@
  </div>
  
  
+Implemented:
+-------------
+- Implemented functional requirements and fully commented.
+- Implemented non functional requirements.
+- Implemented user defined Exceptions
+- Unit tested thoroughly
+
+```
 Functional Requirments:
 -----------------------
  
@@ -16,7 +24,7 @@ Functional Requirments:
     <img src="Screenshots/engg2.jpg"</img>
  </div>
   
-
+````
  
 Non Functional Requirments:
 -----------------------
@@ -26,10 +34,4 @@ Non Functional Requirments:
 </div>
 
 
-Implemented:
--------------
-- Implemented functional requirements and fully commented.
-- Implemented non functional requirements.
-- Implemented user defined Exceptions
-- Unit tested thoroughly
 
