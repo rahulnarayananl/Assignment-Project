@@ -1,5 +1,5 @@
 # Assignment-Project
-> DataStore - Assignment Project For Graduate Trainee
+DataStore - Assignment Project For Graduate Trainee
 
 # Question Statement:
 
@@ -12,7 +12,6 @@
  > $ git clone https://github.com/BBloggsbott/freshworks-datastore
  > $ cd Assignment Project
  
- ----------------
  
 # Environment Setup
 
