@@ -1,5 +1,5 @@
 # Assignment-Project
-DataStore - Assignment Project For Graduate Trainee
+DataStore - Assignment Project For Graduate Trainee 
  
  # Installation
  Clone this and ``` cd ``` to the desired directory
