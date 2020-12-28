@@ -20,7 +20,7 @@ Implemented:
 Functional Requirments:
 -----------------------
  
- <div align="center" width="250px">
+ <div align="center" width="250px" height="400px">
     <img src="Screenshots/engg2.jpg"</img>
  </div>
   
