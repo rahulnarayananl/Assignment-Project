@@ -9,10 +9,12 @@ DataStore - Assignment Project For Graduate Trainee
  ```
  Create a Class instance importing DataStore
  
- # API Available
- - create
- - read
- - delete
+ # Accessing Datastore
+ 
+- A class named DataStore in the file Assingment-Project/Datastore contains all the CRD operations.
+- A class function DataStore().create_data(<key>,<json-value-data>, (optional) <datastore directory>) can be used to create a data in DataStore.
+- A class function DataStore().read(<key>) can be used to read a data from the DataStore.
+- A class function DataStore().delete(<key>) can be used to delete a data from the DataStore.
  
  
 # Environment Setup
