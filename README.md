@@ -19,7 +19,7 @@ DataStore - Assignment Project For Graduate Trainee
  
 # Environment Setup
 
-- Operating system: Ubuntu and Windows
+- Operating system: Windows and Ubuntu
 - Python: Python3.6 or higher
 
 # Test Setup
