@@ -4,7 +4,7 @@
 <b>Question Statement:</b> 
 -------------------------
 
-<div align="center">
+<div align="center" width="250px">
     <img src="Screenshots/engg1.jpg"</img>
  </div>
  
@@ -12,7 +12,7 @@
 Functional Requirments:
 -----------------------
  
- <div align="center">
+ <div align="center" width="250px">
     <img src="Screenshots/engg2.jpg"</img>
  </div>
   
