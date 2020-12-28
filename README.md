@@ -15,11 +15,13 @@ DataStore - Assignment Project For Graduate Trainee
  
 # Environment Setup
 
-1.Operating system: Ubuntu and Windows
-2.Python: Python3.6 or higher
+- Operating system: Ubuntu and Windows
+- Python: Python3.6 or higher
 
 # Test Setup
+ To run tests, run the following command
  
+> python3 test_datastore.py
 
  
 # Implemented:
