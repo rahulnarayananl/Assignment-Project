@@ -3,7 +3,7 @@
 
 <b>Question Statement:</b> 
 -------------------------
-<div align="center" width="250px">
+<div align="center" width="250px" height="400px">
     <img src="Screenshots/engg1.jpg"</img>
  </div>
  
@@ -28,7 +28,7 @@ Functional Requirments:
 Non Functional Requirments:
 -----------------------
 
- <div align="center" width="250px">
+ <div align="center" width="250px" height="400px">
     <img src="Screenshots/engg3.jpg"</img>
 </div>
 
