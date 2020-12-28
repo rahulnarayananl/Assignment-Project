@@ -18,12 +18,18 @@ Functional Requirments:
   
 
  
-Non - Functional Requirments:
+Non Functional Requirments:
 -----------------------
-  
+
  <div align="center">
     <img src="Screenshots/engg3.jpg"</img>
 </div>
 
 
+Implemented:
+-------------
+- Implemented functional requirements and fully commented.
+- Implemented non functional requirements.
+- Implemented user defined Exceptions
+- Unit tested thoroughly
 
