@@ -29,7 +29,6 @@ DataStore - Assignment Project For Graduate Trainee
 - Implemented user defined Exceptions
 - Unit tested thoroughly
 
-------------------------
 
 # The data store will support the following functional requirements.
 
