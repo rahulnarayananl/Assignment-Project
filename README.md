@@ -9,15 +9,15 @@
  </div>
  
  
- Functional Requirments:
- -----------------------
+Functional Requirments:
+-----------------------
  
  <div align="center">
     <img src="Screenshots/engg2.jpg"</img>
  <div>
  
- Non - Functional Requirments:
- -----------------------
+Non - Functional Requirments:
+-----------------------
   
  <div align="center">
     <img src="Screenshots/engg3.jpg"</img>
