@@ -21,7 +21,7 @@ Functional Requirments:
 Non Functional Requirments:
 -----------------------
 
- <div align="center">
+ <div align="center" width="250px">
     <img src="Screenshots/engg3.jpg"</img>
 </div>
 
