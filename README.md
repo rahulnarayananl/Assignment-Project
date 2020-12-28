@@ -9,10 +9,10 @@ DataStore - Assignment Project For Graduate Trainee
  
  # Installation
  Clone this and ``` cd ``` to the desired directory
- 
- > $ git clone https://github.com/BBloggsbott/freshworks-datastore
- > $ cd Assignment Project
- 
+ ```
+   $ git clone https://github.com/BBloggsbott/freshworks-datastore
+   $ cd Assignment Project
+ ```
  
 # Environment Setup
 
