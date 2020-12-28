@@ -9,6 +9,12 @@ DataStore - Assignment Project For Graduate Trainee
  ```
  Create a Class instance importing DataStore
  
+ # API Available
+ - create
+ - read
+ - delete
+ 
+ 
 # Environment Setup
 
 - Operating system: Ubuntu and Windows
