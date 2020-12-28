@@ -41,6 +41,15 @@ python3 test.py
 - Implemented user defined Exceptions
 - Unit tested thoroughly
 
+# Tested:
+- Unit tested instance creation with path and optional path
+- Unit tested create API with DataStore instance for all the functional requirements and non funcional requirments
+- Unit tested read API with DataStore instance for all the functional requirements and non funcional requirments
+- Unit tested delete API with DataStore instance for all the functional requirements and non funcional requirments
+- Unit tested timeToLive Property with create, read and delete APIs
+- Unit tested JSON value size for large Json values
+
+
 
 # The data store will support the following functional requirements.
 
